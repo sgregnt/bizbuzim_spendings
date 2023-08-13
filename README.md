@@ -1,3 +1,3 @@
 # bizbuzim_spendings
-spendings monitor
+August
 ![graph](graph.png)
