@@ -3,7 +3,7 @@
 ### 2023/8
 
 
-<font size =2>
+<font size="2">
 __________________________________
 | This month spent | This month avg daily | Projected end of monthly spending | Total spent since 2023/7 |
 |---|---|---|---|
@@ -17,7 +17,7 @@ __________________________________
 ### 2023/7
 
 
-<font size =2>
+<font size="2">
 __________________________________
 | This month spent | This month avg daily | Projected end of monthly spending | Total spent since 2023/7 |
 |---|---|---|---|
