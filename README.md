@@ -3,13 +3,13 @@
 ### 2023/8
 
 
-<sub>
 __________________________________
+<sub><sup>
 | This month spent | This month avg daily | Projected end of monthly spending | Total spent since 2023/7 |
 |---|---|---|---|
 | $1226.0  |  $94.3  | $2923.0  |  $1614.0  |
+</sub></sup>
 __________________________________
-</sub>
 ![graph_8_sum](graph_8_sum.png)
 ![graph_8_vals](graph_8_vals.png)
 
@@ -17,12 +17,12 @@ __________________________________
 ### 2023/7
 
 
-<sub>
 __________________________________
+<sub><sup>
 | This month spent | This month avg daily | Projected end of monthly spending | Total spent since 2023/7 |
 |---|---|---|---|
 | $388.0  |  $12.5  | $388.0  |  $388.0  |
+</sub></sup>
 __________________________________
-</sub>
 ![graph_7_sum](graph_7_sum.png)
 ![graph_7_vals](graph_7_vals.png)
