@@ -1,4 +1,6 @@
 ### 2023/8
+
+
 - Total spent since 2023/7: 1614.0
 - Projected monthly spending: 2923.0
 - Avg daily: 94.3
@@ -6,6 +8,8 @@
 ![graph_8_sum](graph_8_sum.png)
 ![graph_8_vals](graph_8_vals.png)
 ### 2023/7
+
+
 - Total spent since 2023/7: 388.0
 - Projected monthly spending: 388.0
 - Avg daily: 12.5
