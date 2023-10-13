@@ -1,5 +1,19 @@
 
 
+### 2023/10
+
+
+__________________________________
+<sub><sup>
+| Spent | Avg daily | End of month projection | Spent since 2023/7 |
+|---|---|---|---|
+| $2110.0  |  $162.3  | $5031.0  |  $17469.0  |
+</sub></sup>
+__________________________________
+![graph_10_sum](graph_10_sum.png)
+![graph_10_vals](graph_10_vals.png)
+
+
 ### 2023/9
 
 
