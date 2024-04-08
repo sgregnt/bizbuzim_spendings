@@ -5,7 +5,7 @@
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -19,7 +19,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -33,7 +33,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -47,7 +47,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -61,7 +61,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -75,7 +75,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -89,7 +89,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -103,7 +103,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $0.0  |  $0.0  | $0.0  |  $32285.0  |
 </sub></sup>
@@ -117,7 +117,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $1297.0  |  $162.2  | $4866.0  |  $32285.0  |
 </sub></sup>
@@ -131,7 +131,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $4420.0  |  $142.6  | $4421.0  |  $30987.0  |
 </sub></sup>
@@ -145,7 +145,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $5532.0  |  $190.8  | $5533.0  |  $26568.0  |
 </sub></sup>
@@ -159,7 +159,7 @@ __________________________________
 
 __________________________________
 <sub><sup>
-| Spent | Avg daily | End of month projection | Spent since 2024/1 |
+| Spent | Avg daily | End of month projection | Spent since 2023/1 |
 |---|---|---|---|
 | $8408.0  |  $271.2  | $8407.0  |  $21036.0  |
 </sub></sup>
